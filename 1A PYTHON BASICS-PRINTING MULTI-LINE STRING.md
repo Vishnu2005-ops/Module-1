@@ -30,6 +30,3 @@ print(string_double_quotes)
 
 ## RESULT
 Thus, the Python program successfully prints the string across multiple lines using triple quotes. 
-
-
-
