@@ -1,4 +1,4 @@
-# Experiment No: 1e – SEB-Minimum of Three Numbers
+# Experiment No: 1e – SEB-Checking Whether Two Persons  Name is Same or Not
 
 ## AIM  
 To write a python program to check whether two persons  name is same or not .print the result in true or false
