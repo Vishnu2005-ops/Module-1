@@ -1,4 +1,4 @@
-# Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
+# Experiment No: 1c-Varibles and Expressions, Operators - Finding Speed of a Car
 
 ## AIM
 To write a program to find speed of the car to cover the given distance(km) and time(hr).
